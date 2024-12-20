@@ -1,4 +1,4 @@
 # DEMO-REPOSITORY
 This is a demo repository.
-<BR>
+<br>
 Author-Siddhartha Chauhan
